@@ -1,4 +1,7 @@
-# Collect Wordlist to make abs-path
+# Collection of wordlists. WIP.
+
+
+#### Collect Wordlist to make abs-path
 
 Better wordlists for lfi-linux.
 
